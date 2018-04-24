@@ -16,7 +16,7 @@ namespace NewingDataTypes
         static void DefaultDeclarations()
         {
             Console.WriteLine("=> Default Declarations:");
-            int myInt = default;
+            //int myInt = default;
         }
         static void NewingDataTypes()
         {
