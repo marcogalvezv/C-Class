@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MainMethod": {
+      "commandName": "Project",
+      "commandLineArgs": "arg1 arg2"
+    }
+  }
+}
