@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMethod", "MainMethod\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowEnvironmentDetails", "ShowEnvironmentDetails\ShowEnvironmentDetails.csproj", "{82BA0761-C0A0-4783-990C-92DC28FC7933}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetUserData", "GetUserData\GetUserData.csproj", "{BCAF0215-4958-410B-9EB7-2D68527A6596}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{82BA0761-C0A0-4783-990C-92DC28FC7933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82BA0761-C0A0-4783-990C-92DC28FC7933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82BA0761-C0A0-4783-990C-92DC28FC7933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCAF0215-4958-410B-9EB7-2D68527A6596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCAF0215-4958-410B-9EB7-2D68527A6596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCAF0215-4958-410B-9EB7-2D68527A6596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCAF0215-4958-410B-9EB7-2D68527A6596}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
