@@ -1,9 +1,0 @@
-C:\c#Class\MainMethod\MainMethod\MainMethod\bin\Debug\netcoreapp1.1\MainMethod.deps.json
-C:\c#Class\MainMethod\MainMethod\MainMethod\bin\Debug\netcoreapp1.1\MainMethod.runtimeconfig.json
-C:\c#Class\MainMethod\MainMethod\MainMethod\bin\Debug\netcoreapp1.1\MainMethod.runtimeconfig.dev.json
-C:\c#Class\MainMethod\MainMethod\MainMethod\bin\Debug\netcoreapp1.1\MainMethod.dll
-C:\c#Class\MainMethod\MainMethod\MainMethod\bin\Debug\netcoreapp1.1\MainMethod.pdb
-C:\c#Class\MainMethod\MainMethod\MainMethod\obj\Debug\netcoreapp1.1\MainMethod.csprojResolveAssemblyReference.cache
-C:\c#Class\MainMethod\MainMethod\MainMethod\obj\Debug\netcoreapp1.1\MainMethod.AssemblyInfo.cs
-C:\c#Class\MainMethod\MainMethod\MainMethod\obj\Debug\netcoreapp1.1\MainMethod.dll
-C:\c#Class\MainMethod\MainMethod\MainMethod\obj\Debug\netcoreapp1.1\MainMethod.pdb
