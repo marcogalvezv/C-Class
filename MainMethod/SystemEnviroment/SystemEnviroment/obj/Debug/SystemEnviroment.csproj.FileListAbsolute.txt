@@ -1,6 +1,0 @@
-C:\c#Class\MainMethod\SystemEnviroment\SystemEnviroment\bin\Debug\SystemEnviroment.exe.config
-C:\c#Class\MainMethod\SystemEnviroment\SystemEnviroment\bin\Debug\SystemEnviroment.exe
-C:\c#Class\MainMethod\SystemEnviroment\SystemEnviroment\bin\Debug\SystemEnviroment.pdb
-C:\c#Class\MainMethod\SystemEnviroment\SystemEnviroment\obj\Debug\SystemEnviroment.csprojResolveAssemblyReference.cache
-C:\c#Class\MainMethod\SystemEnviroment\SystemEnviroment\obj\Debug\SystemEnviroment.exe
-C:\c#Class\MainMethod\SystemEnviroment\SystemEnviroment\obj\Debug\SystemEnviroment.pdb
