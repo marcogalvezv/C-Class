@@ -41,4 +41,11 @@ namespace AccessModifiers
             Red, Green, Blue
         }
     }
+
+
+
+    //private class test
+    //{
+
+    //}
 }
