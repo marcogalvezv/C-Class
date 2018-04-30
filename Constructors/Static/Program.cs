@@ -1,5 +1,6 @@
 ﻿using System;
-
+using static System.Console;
+using static System.DateTime;
 namespace Static
 {
     class Program
@@ -55,5 +56,34 @@ namespace Static
             Console.WriteLine("In static ctor!");
             currInterestRate = 0.04;
         }
+    }
+
+
+
+
+
+    //static void Main(string[] args)
+    //{
+    //    Console.WriteLine("***** Fun with Static Classes *****\n");
+    //    // This is just fine.
+    //    TimeUtilClass.PrintDate();
+    //    TimeUtilClass.PrintTime();
+    //    // Compiler error! Can't create instance of static classes!
+    //    TimeUtilClass u = new TimeUtilClass();
+    //    Console.ReadLine();
+    //}
+
+
+
+    // Static classes can only
+    // contain static members!
+    static class TimeUtilClass
+    {
+        public static void PrintTime()
+        {
+            Console.WriteLine(Now.ToString());
+        }
+        public static void PrintDate()
+        => Console.WriteLine(Today.ToString());
     }
 }
