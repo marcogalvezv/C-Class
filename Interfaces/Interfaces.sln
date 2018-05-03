@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbtractClass", "Interfaces\AbtractClass.csproj", "{59C6A890-0CA0-4A3F-B4A3-4085435826AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{891C6A75-E17D-4233-9102-DAFB0083FEC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{CABCB6DC-AFFB-4875-A3D9-36DACC4D4AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C6A890-0CA0-4A3F-B4A3-4085435826AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C6A890-0CA0-4A3F-B4A3-4085435826AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C6A890-0CA0-4A3F-B4A3-4085435826AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C6A890-0CA0-4A3F-B4A3-4085435826AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{891C6A75-E17D-4233-9102-DAFB0083FEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891C6A75-E17D-4233-9102-DAFB0083FEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891C6A75-E17D-4233-9102-DAFB0083FEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891C6A75-E17D-4233-9102-DAFB0083FEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABCB6DC-AFFB-4875-A3D9-36DACC4D4AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABCB6DC-AFFB-4875-A3D9-36DACC4D4AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABCB6DC-AFFB-4875-A3D9-36DACC4D4AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABCB6DC-AFFB-4875-A3D9-36DACC4D4AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
