@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerableIEnumerator", "IEnumerableIEnumerator\IEnumerableIEnumerator.csproj", "{AD75E32D-C9F9-4B8B-81AE-5B9E0C798B8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEnumerableIEnumerator", "IEnumerableIEnumerator\IEnumerableIEnumerator.csproj", "{AD75E32D-C9F9-4B8B-81AE-5B9E0C798B8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{9F9D8FA0-2A2C-444E-8847-19060F648E9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yield", "Yield\Yield.csproj", "{9F9D8FA0-2A2C-444E-8847-19060F648E9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IComparableProject", "IComparable\IComparableProject.csproj", "{74714997-A056-4797-B4D7-40771CE189F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparableProject", "IComparable\IComparableProject.csproj", "{74714997-A056-4797-B4D7-40771CE189F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IClonable", "IClonable\IClonable.csproj", "{69313303-6C14-4CBC-A2AC-F4F5D189E300}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{74714997-A056-4797-B4D7-40771CE189F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74714997-A056-4797-B4D7-40771CE189F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74714997-A056-4797-B4D7-40771CE189F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69313303-6C14-4CBC-A2AC-F4F5D189E300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69313303-6C14-4CBC-A2AC-F4F5D189E300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69313303-6C14-4CBC-A2AC-F4F5D189E300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69313303-6C14-4CBC-A2AC-F4F5D189E300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
