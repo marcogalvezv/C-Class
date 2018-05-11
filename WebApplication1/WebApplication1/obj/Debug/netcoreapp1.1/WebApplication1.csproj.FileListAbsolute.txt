@@ -1,0 +1,18 @@
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+c:\users\marco\documents\visual studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\c#Class\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+C:\c#Class\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+C:\c#Class\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+C:\c#Class\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+C:\c#Class\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
+C:\c#Class\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+C:\c#Class\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\c#Class\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+C:\c#Class\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
